@@ -1,6 +1,6 @@
 # golang-dice-roll
 
-**goland-dice-roll** is a simple script written in Go that simulates rolling a dice and returning a number.
+**golang-dice-roll** is a simple script written in Go that simulates rolling a dice and returning a number.
 
 ## How to use
 
